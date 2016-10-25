@@ -1,0 +1,24 @@
+.event {
+    position: absolute;
+    overflow: hidden;
+}
+
+.event-content {
+    overflow: hidden;
+    box-sizing: border-box;
+    height: 100%;
+    margin: 0 5px;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-left: 5px solid #47b28d;
+}
+
+.event-title {
+    color: #47b28d;
+    font-weight: 600;
+}
+
+.event-location {
+    color: gray;
+    font-size: 0.8rem;
+}
