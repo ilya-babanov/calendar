@@ -1,5 +1,6 @@
 ### What is it
-`React` calendar app
+`React` calendar app.
+
 Renders provided events using rules:
 - no events may visually overlap
 - if events collide in time, they must have the same width
